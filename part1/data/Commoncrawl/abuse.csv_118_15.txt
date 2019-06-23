@@ -1,0 +1,55 @@
+
+
+
+
+Sign in or Subscribe 
+See Offers
+
+
+
+
+The late singer Aretha Franklin also received an honorary Pulitzer, which were awarded Monday at Columbia University. Three Pulitzer Prizes have been awarded to newspapers for their coverage of gun violence.The Pulitzer for public service was awarded Monday to the South Florida Sun Sentinel for its coverage of the mass shooting at the Marjory Stoneman Douglas High School in Parkland, Florida, in February 2018. Seventeen students and staff were killed in the shooting.The prize for breaking news reporting went to went to the staff of the Pittsburgh Post-Gazette for coverage of the mass shooting at the Tree of Life synagogue in Pittsburgh last October. That attack killed 11 people.The Capital Gazette was given a special citation for its coverage and courage in the face of a massacre in its own newsroom in Annapolis, Maryland. The newspaper published on schedule the day after the shooting claimed five staffers’ lives. It was one of the deadliest attacks on journalists in U.S. history. The man charged in the attack had a longstanding grudge against the paper.An office building that housed the Capital Gazette newspaper’s offices up until a 2018 shooting that left five employees dead is seen Monday, April 15, 2019, in Annapolis, Md. The Pulitzer Prize board awarded the Capital Gazette a special citation Monday for their response to the shooting.  AP Photo/Patrick Semansky The Wall Street Journal and The New York Times were awarded Pulitzer Prizes for their reporting on President Donald Trump.The Journal won its Pulitzer in national reporting for its investigations of hush money payments orchestrated by the president’s former lawyer, Michael Cohen, to silence women who claimed to have had affairs with Trump.The New York Times was awarded a Pulitzer in explanatory reporting for investigation of Trump family tax schemes that helped the president’s father pass on millions of dollars to his children while minimizing inheritance taxes.Trump has denied having affairs with the women.He has also denied that his family did anything improper regarding his taxes, calling the Times report a “hit piece.”Three Los Angeles Times reporters also won a Pulitzer for their investigation into a gynecologist accused of abusing hundreds of students at the University of Southern California.Harriet Ryan, Matt Hamilton and Paul Pringle won the prize Monday for their stories about Dr. George Tyndall, which started with an anonymous tip Ryan received.In the wake of the stories, the university’s president resigned, the Los Angeles Police Department launched an investigation and more than 650 women have sued USC, alleging the school failed to protect them from sexual abuse. Tyndall has denied the allegations.St. Louis Post-Dispatch columnist Tony Messenger won a Pulitzer for his series of columns about debtors’ prisons in Missouri.Messenger found defendants across Missouri who owed thousands of dollars in “board bills” for time spent in jail even though they had fulfilled their sentences or served out parole.As a result of his work, the Missouri Supreme Court ruled that judges can’t use courts to threaten indigent defendants with jail time, nor can they collect debts as court costs.Post-Dispatch President and Publisher Ray Farris said Messenger’s work “exemplifies the highest standards of our profession.”The newspaper also won a Pulitzer Prize, U.S. journalism’s highest honor, in 2015 for photographic coverage of the unrest in Ferguson after Michael Brown’s death.In this April 19, 2017, file photo, Aretha Franklin performs at the world premiere of “Clive Davis: The Soundtrack of Our Lives” during the 2017 Tribeca Film Festival in New York. Franklin is still getting R.E.S.P.E.C.T. after death: The Queen of Soul received the Pulitzer Prize Special Citation honor Monday, April 15, 2019, becoming the first individual woman to earn a special citation prize since the honor was first awarded in 1930.  Charles Sykes/Invision/AP Singer Aretha Franklin was given an honorary Pulitzer Prize, cited posthumously for her extraordinary career.Pulitzer judges also awarded Richard Powers’ innovative novel “The Overstory” the fiction prize and named David W. Blight’s 900-page “Frederick Douglass: Prophet of Freedom” the best work of history.On Monday, the biography prize went to Jeffrey C. Stewart’s “The New Negro: The Life of Alain Locke,” and the drama award to “Fairview,” by Jackie Sibblies Drury. Eliza Griswold’s “Amity and Prosperity: One Family and the Fracturing of America” won for general nonfiction, and Ellen Reid’s opera “p r i s m” for music. The poetry award was given to Forrest Gander’s elegiac “Be With.”Franklin, who died last summer, is the first woman singled out for an honorary Pulitzer, which has been given to Bob Dylan and John Coltrane, among others.A team of Associated Press journalists won a Pulitzer in international reporting for their work documenting torture, graft and starvation in Yemen’s brutal civil war.This photo combination shows Associated Press journalists, from left, videographer Maad al-Zikry, reporter Maggie Michael and photographer Nariman El-Mofty. The team won the 2019 Pulitzer Prize in international reporting for their work documenting torture, graft and starvation in Yemen’s brutal civil war.  AP Reporter Maggie Michael, photographer Nariman El-Mofty and videographer Maad al-Zikry spent a year uncovering atrocities and suffering in Yemen.In a series of stories, they told of how people in parts of Yemen were reduced to eating leaves while corrupt officials diverted international food aid.Reuters also won for international reporting for work that cost two of its staffers their liberty: shedding light on a brutal crackdown on Rohingya Muslims by security forces in Buddhist-majority Myanmar.Reporters Wa Lone and Kyaw Soe Oo are serving a seven-year sentence after being convicted of violating the country’s Official Secrets Act. Their supporters say the two were framed in retaliation for their reporting.Jackie Sibblies Drury’s play “Fairview,” which skewers white people’s obsession with African American stereotypes, won the 2019 Pulitzer Prize for drama.“Fairview” begins as a contemporary domestic comedy involving a well-off black family and ends with the invisible fourth wall destroyed and the audience pulled down a rabbit hole involving race and identity.The Pulitzer board called it a “hard-hitting drama that examines race in a highly conceptual, layered structure, ultimately bringing audiences into the actors’ community to face deep-seated prejudices.”The play was originally commissioned and produced by Soho Rep and Berkeley Repertory Theatre. Sibblies Drury is New York City-based playwright whose plays include “Really, “Social Creatures” and “We Are Proud to Present a Presentation.”Ellen Reid, the Los Angeles composer whose debut opera centered on a young woman’s agonizing struggle with the psychological effects of sexual assault, won the Pulitzer for music.Reid’s opera, “prism,” premiered in November as part of Los Angeles Opera’s Off Grand series for experimental works. Times critic Mark Swed hailed the piece as brilliant, writing that Reid, who was 35 at the time, is “a maker of wonder, mystery, suspense, fear and glory. Notes slide into one another as if guided by a secret force. Melodies are endless and inventively transformed, the atmospheric pressure ever changing.”The first Pulitzer Prizes were awarded in 1917, and they have come to be considered the field’s most prestigious honor in the U.S.The contest was established by newspaper publisher Joseph Pulitzer.Winners of the public service award receive a gold medal. The other awards carry a prize of $15,000 each.
+
+Send questions/comments to the editors. 
+< PreviousNext >Here at MaineToday Media we value our readers and are committed to growing our community by encouraging you to add to the discussion. To ensure conscientious dialogue we have implemented a strict no-bullying policy. To participate, you must follow our Terms of Use. Click here to flag and report a comment that violates our terms of use.Enter your email and our daily headlines will be delivered to your inbox each morning.
+
+
+			
+			var mediaContent = "media\\:content,content";
+			
+      (function() {
+         var now = new Date();
+         var cookieName = new RegExp('MSPAN_Paywall_views_' + now.getMonth());
+         window.MSPAN = {
+              Paywall: {
+                  totalViews: function() {
+                      var cookies = document.cookie.split('; ');
+                      var val = 0;
+                      if (!cookieName.test(document.cookie)) {
+                          return 0;
+                      }
+                      for (var i = 0; i < cookies.length; i++) {
+                          if (cookieName.test(cookies[i])) {
+                              val = parseInt(cookies[i].split('=')[1]);
+                          }
+                      }
+                      return val;
+                  }
+              }
+          };
+      }());
+    
+
+
+         (function(){
+            "use strict";
+            if(/logout/.test(window.location.search)){
+               var date = new Date();
+               var cookieString = "MSPAN_Paywall_user=0; domain=."+document.location.host.replace(/^\w+\./, '')+"; path=/; expires=" + date.toGMTString();
+               var cookieString2 = "MSPAN_Paywall_user=0; domain="+document.location.host+"; path=/; expires=" + date.toGMTString();
+               date.setHours(date.getHours() - 1);
+               document.cookie = cookieString;
+               document.cookie = cookieString2;
+            }
+         }());
+    

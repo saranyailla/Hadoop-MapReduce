@@ -1,0 +1,55 @@
+
+
+
+
+Sign in or Subscribe 
+See Offers
+
+
+
+
+The country's only all-male historically black college will allow transgender men to enroll in 2020. The country’s only all-male historically black college will begin admitting transgender men next year, marking a major shift for the school at a time when higher education institutions around the nation are adopting more welcoming policies toward LGBT students.Leaders of Morehouse College told The Associated Press that its board of trustees approved the policy on Saturday.Transgender men will be allowed to enroll in the school for the first time in 2020. Students who identify as women but were born male cannot enroll, however, and anyone who transitions from male to female will not be automatically eligible to receive a degree from the institution.Morehouse officials hailed the move as an important step toward a more inclusive campus while affirming its mission to educate and develop men.“I think Morehouse having the courage to speak to issues of masculinity in today’s environment is important,” Morehouse College President David Thomas told The Associated Press. “For 152 years, the world has, in some way, seen Morehouse as the West Point of black male development.”Morehouse is an iconic college that counts the Rev. Martin Luther King Jr., filmmaker Spike Lee and former Atlanta Mayor Maynard Jackson as its alumni. It bills itself as the “college of choice for black men” that has instilled leadership skills in generations of African American men.More than 1,000 colleges and universities around the country have adopted some form of a transgender policy, including about two dozen historically black colleges. An increasing number of schools are updating admissions guidelines to ensure that transgender students have a welcoming experience, said Human Rights Commission spokeswoman Sarah McBride.“Young people are incredibly supportive of LGBT equality, including transgender,” McBride said. “Schools are responding in kind. In many ways, our college campuses look like the country we’ll have in 10 or 15 years. There are a lot of reasons for hope.”Morehouse becomes the first standalone all-male college in the country to adopt a transgender policy. Nationwide, there are only two other all-male colleges, Wabash College in Indiana and Hampden-Sydney College in Virginia. Minnesota’s St. John’s University, which enrolls only men but shares a co-ed academic program with the College of St. Benedict, also has a transgender policy.Morehouse has had challenges around LGBT issues, most notably the 2002 attack of a 19-year-old student accused of beating a fellow student with a baseball bat who he mistakenly thought was making a sexual advance. Gregory Love’s skull was fractured in the beating. Aaron Price was found guilty of assault and initially sentenced to 10 years in prison.The incident was widely seen as reflective of a larger and pervasive attitude toward the LGBT community among African Americans.Thomas acknowledged that historically black colleges and universities – mainly established after the Civil War with the help of religious institutions like the Baptist and Methodist churches – face added challenges in addressing issues of gender and sexuality because of opposition in black churches.“I can’t speak for all HBCUs, but we know in the black church there has largely been silence on this issue,” Thomas said. “I can imagine there may be people who would say, `Why would you even raise this?’ I say to those people we live in an era now where silence on these issues is actually not helpful. For us, as a school for men, it’s important for us to set clear expectations about what that means. That’s what we’re trying to do with this policy.”In 2009, the college updated its dress code, in part to address a handful of students who were wearing women’s clothing on campus. The following year, Morehouse held its first Gay Pride. Morehouse offered its first LGBT course in 2013 and has a scholars program named for civil and gay rights icon Bayard Rustin.Spelman College, an all-woman HBCU next door to Morehouse, adopted a transgender policy in 2017, and the first transgender woman graduated in 2018.Other HBCUs with transgender policies include Tuskegee University, Howard University, Florida A&M University, Southern University in Louisiana, North Carolina Central University and Morgan State University in Maryland.
+
+Send questions/comments to the editors. 
+Here at MaineToday Media we value our readers and are committed to growing our community by encouraging you to add to the discussion. To ensure conscientious dialogue we have implemented a strict no-bullying policy. To participate, you must follow our Terms of Use. Click here to flag and report a comment that violates our terms of use.Enter your email and our daily headlines will be delivered to your inbox each morning.
+
+
+			
+			var mediaContent = "media\\:content,content";
+			
+      (function() {
+         var now = new Date();
+         var cookieName = new RegExp('MSPAN_Paywall_views_' + now.getMonth());
+         window.MSPAN = {
+              Paywall: {
+                  totalViews: function() {
+                      var cookies = document.cookie.split('; ');
+                      var val = 0;
+                      if (!cookieName.test(document.cookie)) {
+                          return 0;
+                      }
+                      for (var i = 0; i < cookies.length; i++) {
+                          if (cookieName.test(cookies[i])) {
+                              val = parseInt(cookies[i].split('=')[1]);
+                          }
+                      }
+                      return val;
+                  }
+              }
+          };
+      }());
+    
+
+
+         (function(){
+            "use strict";
+            if(/logout/.test(window.location.search)){
+               var date = new Date();
+               var cookieString = "MSPAN_Paywall_user=0; domain=."+document.location.host.replace(/^\w+\./, '')+"; path=/; expires=" + date.toGMTString();
+               var cookieString2 = "MSPAN_Paywall_user=0; domain="+document.location.host+"; path=/; expires=" + date.toGMTString();
+               date.setHours(date.getHours() - 1);
+               document.cookie = cookieString;
+               document.cookie = cookieString2;
+            }
+         }());
+    

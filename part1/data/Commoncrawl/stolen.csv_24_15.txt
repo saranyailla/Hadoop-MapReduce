@@ -1,0 +1,43 @@
+DETROIT - Here's what you missed on Local 4 News at 5:
+                     Notre Dame Cathedral fire
+Firefighters battled a massive blaze Monday at the French capital's iconic Notre Dame Cathedral that sent ash pouring onto tourists and flames shooting out of the world-famous 12th century monument.
+                     Fatal shooting
+A man convicted in a deadly double shooting was sentenced to prison without the chance of parole.
+                     False child abduction
+A Detroit woman has been charged with filing a false police report of a child abduction after she allegedly lied about her 4-year-old son being inside a stolen vehicle, officials said.
+                     Avoiding dog bites
+A man who was attacked by a dog is sharing his story in hopes of stopping future attacks.
+                     Deadly storms
+A deadly string of storms has now stretched from the Mississippi Delta all the way to Delaware.
+                     Eating before bed
+Is eating before bed keeping you from getting a good night's sleep? Experts said it could depend on what you're eating, not just when.
+                     Tiger players
+An eighth grade student in West Bloomfield got two very special visitors.
+                     Addicts helping addicts
+After their addiction nearly robbed them of everything two women are working to get others on a healthier path.
+                     
+ 
+
+
+
+
+
+
+
+
+              GMGVideoPlayers = window.GMGVideoPlayers || [];
+              GMGVideoPlayers.push({
+                "node" : [".wrapper-media.photo", "#gmg-video-container"],
+                "url" : "https://pubads.g.doubleclick.net/ssai/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8",
+                "dai_assetKey" : "K3PyXqgKR4Wb50WAXjAUgw",
+                "autoplay" : true,
+                "muted" : true,
+                "controls" : true,
+                "debug" : false,
+                "adTagUrl" : "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/15466288/WDIV/Livestream&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]"
+              });
+            
+
+
+
+Copyright 2019 by WDIV ClickOnDetroit - All rights reserved.Get email alerts for local stories and events around the world.
